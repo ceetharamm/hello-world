@@ -32,6 +32,7 @@
   </div>
 
    <h1> Thankyou for the registration </h1>
+   <h1> Happy Learning!!!  </h1>
 
   
 </form>
