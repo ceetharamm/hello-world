@@ -31,7 +31,6 @@
     <p>Already have an account? <a href="#">Sign in into YOMS</a>.</p>
   </div>
 
-   <h1> Thankyou for the registration </h1>
    <h1> Happy Learning!!!  </h1>
 
   
